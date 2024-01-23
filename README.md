@@ -1,2 +1,2 @@
 # Data-Mites
-Data Science Consultan
+Data Science Consultant
