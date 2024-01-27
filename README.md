@@ -1,2 +1,2 @@
 # Data-Mites
-### Data Science Consultant
+### Programming for beginners
