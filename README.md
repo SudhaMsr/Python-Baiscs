@@ -1,4 +1,4 @@
- <h1 align="center"> Python Programming for beginners /h1>
+<h1 align="center"> Python Programming for beginners </h1>
 
   Welcome to the Python-Basics repository! 🎉
 
