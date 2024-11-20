@@ -1,6 +1,6 @@
 <h1 align="center"> Python Programming for beginners </h1>
 
-  Welcome to the Python-Basics repository! 🎉
+Welcome to the Python-Basics repository! 🎉
 
 This repository is a beginner-friendly collection of Python programming concepts, designed to provide a strong foundation in Python for new learners.
 
