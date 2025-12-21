@@ -2,6 +2,7 @@
 <h1 align="center"> Python Programming for beginners </h1>
 
 Welcome to the Python-Basics repository!! 🎉
+For Blogs - https://medium.com/@sudhamsr/python-for-data-science-introduction-to-python-ace25b97bea9
 
 This repository is a **beginner-friendly collection of Python programming concepts**, designed to provide a **strong foundation in Python** for new learners.
 
